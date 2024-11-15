@@ -16,8 +16,8 @@ async fn return_json_string() -> impl IntoResponse {
         {
           "id": "1",
           "name": "Cabildo",
-          "description": "Lugar histórico de Bs. As.",
-          "long_description": "Este es un monumento que etc...",
+          "description": "Uno de los edificios más emblemáticos de la historia argentina.",
+          "long_description": "El Cabildo de Buenos Aires es un edificio histórico que fue sede del gobierno colonial y donde se llevaron a cabo importantes eventos durante la Revolución de Mayo de 1810, que marcaron el comienzo de la independencia de Argentina. Hoy, funciona como museo, exhibiendo colecciones relacionadas con la historia y la cultura del país."
           "address": "Bolivar 65",
           "rating": 4.7,
           "images": [
@@ -32,8 +32,8 @@ async fn return_json_string() -> impl IntoResponse {
         {
           "id": "2",
           "name": "Las violetas",
-          "description": "Café típico de Almagro",
-          "long_description": "Este es un café que etc...",
+          "description": "Un tradicional café de Buenos Aires, famoso por su ambiente único y su repostería.",
+          "long_description": "Las Violetas es una cafetería histórica en el barrio de Almagro, conocida por su arquitectura Art Deco y su exquisita oferta de pasteles, tortas y café. Fundada en 1884, ha sido un punto de encuentro para generaciones de porteños, ofreciendo un ambiente clásico y acogedor. Es ideal tanto para disfrutar de un café por la tarde como para degustar su famosa pastelería."
           "address": "Av. Rivadavia 3899",
           "rating": 4.5,
           "images": [
@@ -48,8 +48,8 @@ async fn return_json_string() -> impl IntoResponse {
         {
           "id": "3",
           "name": "Parque Patricios",
-          "description": "Gran parque del barrio de Parque Patricios",
-          "long_description": "Parque con club y lugares para comer...",
+          "description": "Un gran espacio verde en el corazón del barrio de Parque Patricios.",
+          "long_description": "El Parque Patricios es un gran parque urbano en el sur de Buenos Aires, que ofrece amplias áreas de césped, senderos para caminar y espacios para deportes y recreación. Además de su belleza natural, el parque alberga el Club Huracán, uno de los equipos de fútbol más populares de la ciudad. Es un lugar ideal para un paseo en familia o para disfrutar de una tarde al aire libre."
           "address": "Av. Caseros 3021",
           "rating": 4.5,
           "images": [
